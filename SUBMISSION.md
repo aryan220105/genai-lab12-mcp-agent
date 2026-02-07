@@ -23,7 +23,7 @@ git commit -m "GenAI Lab 12 - MCP-style Travel and Market Intelligence Agent"
 
 git branch -M main
 
-git remote add origin https://github.com/aryan220105/genai-lab-mcp-agent.git
+git remote add origin https://github.com/aryan220105/genai-lab12-mcp-agent.git
 
 git push -u origin main
 ```
@@ -46,7 +46,7 @@ If `git push` asks for credentials, use a **Personal Access Token** (Settings �
 2. Sign in with your **GitHub account** (aryan220105)
 3. Click **"New app"**
 4. Fill in:
-   - **Repository:** `aryan220105/genai-lab-mcp-agent`
+   - **Repository:** `aryan220105/genai-lab12-mcp-agent`
    - **Branch:** `main`
    - **Main file path:** `app.py`
 5. Click **"Advanced settings"**
@@ -113,7 +113,7 @@ Before submitting, verify each item:
 - [ ] **Stock indices show values** – Nikkei, SENSEX, etc. with change %
 - [ ] **Google Maps link works** – Clicking the link opens Google Maps
 - [ ] **MCP Trace shows 5 calls** – All marked ✅ success
-- [ ] **GitHub repo is public** – https://github.com/aryan220105/genai-lab-mcp-agent
+- [ ] **GitHub repo is public** – https://github.com/aryan220105/genai-lab12-mcp-agent
 - [ ] **No API keys in code** – Keys only in .env (gitignored) and Streamlit secrets
 - [ ] **Streamlit Cloud deployed** – App accessible via public URL
 - [ ] **6 screenshots taken** – All items listed above are captured

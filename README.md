@@ -130,8 +130,8 @@ GEN AI lab 12/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/aryan220105/genai-lab-mcp-agent.git
-cd genai-lab-mcp-agent
+git clone https://github.com/aryan220105/genai-lab12-mcp-agent.git
+cd genai-lab12-mcp-agent
 ```
 
 ### 2. Create virtual environment & install dependencies
